@@ -8,6 +8,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
+
+![example branch parameter.](https://github.com/pranavbhart/skills-write-javascript-actions/actions/workflows//my-workflow.yml
+/badge.svg?branch=main)
 # Write JavaScript Actions
 
 _Write your own GitHub JavaScript Action and automate customized tasks unique to your workflow._
